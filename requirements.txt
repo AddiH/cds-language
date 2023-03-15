@@ -4,3 +4,5 @@ pandas
 scikit_learn
 seaborn
 gensim
+tensorflow-cpu
+tensorflow-datasets
