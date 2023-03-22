@@ -1,0 +1,3 @@
+spacy==3.5.1
+# coder:/work/cds-language$ pipreqs src
+# INFO: Successfully saved requirements file in src/requirements.txt
