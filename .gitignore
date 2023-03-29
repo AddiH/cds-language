@@ -130,3 +130,4 @@ dmypy.json
 
 # AddiH addition
 .DS_Store
+nbs/my_model
