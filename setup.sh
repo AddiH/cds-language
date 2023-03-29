@@ -1,4 +1,9 @@
-#!/usr/bin/env bash
+# install hdbscan for BERTopic
+sudo apt-get update
+sudo apt-get install python3-dev
 
-python3.9 -m pip install --upgrade pip
-python3.9 -m pip install -r requirements.txt
+# requirements
+pip install --upgrade pip
+pip install --upgrade nbformat
+python3 -m pip install -r requirements.txt
+
